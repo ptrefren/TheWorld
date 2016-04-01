@@ -3,15 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7D91B3C7-E5DC-4C23-B47D-147775451001}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C1707FF0-8BD2-410D-86ED-377B6458A013}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AEF521F0-DEAA-4CC5-AF62-7D743A4157B0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{937C2EC2-4530-4604-904F-14E6BB10366D}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
-		NuGet.Config = NuGet.Config
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TheWorld", "src\TheWorld\TheWorld.xproj", "{153433DE-7E14-4401-83BF-FF1465184A20}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TheWorld", "src\TheWorld\TheWorld.xproj", "{AFC6C700-B14A-4BCC-9446-384C7E2E7DC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,15 +18,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{153433DE-7E14-4401-83BF-FF1465184A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{153433DE-7E14-4401-83BF-FF1465184A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{153433DE-7E14-4401-83BF-FF1465184A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{153433DE-7E14-4401-83BF-FF1465184A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC6C700-B14A-4BCC-9446-384C7E2E7DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC6C700-B14A-4BCC-9446-384C7E2E7DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC6C700-B14A-4BCC-9446-384C7E2E7DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC6C700-B14A-4BCC-9446-384C7E2E7DC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{153433DE-7E14-4401-83BF-FF1465184A20} = {7D91B3C7-E5DC-4C23-B47D-147775451001}
+		{AFC6C700-B14A-4BCC-9446-384C7E2E7DC6} = {C1707FF0-8BD2-410D-86ED-377B6458A013}
 	EndGlobalSection
 EndGlobal
